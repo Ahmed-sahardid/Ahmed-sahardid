@@ -1,9 +1,11 @@
-### Hi there 👋
+<h1>Hi, I'm Ahmed <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<!--
-**Ahmed-sahardid/Ahmed-sahardid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 CyperSecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Active Directory Home Lab</b>(https://github.com/Ahmed-sahardid/URL) 
+
+<h2> Certifications:</h2>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
