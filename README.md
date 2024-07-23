@@ -1,7 +1,4 @@
-<h1>Hi, I'm Ahmed <br/><a https://github.com/>Programmer</a>, <a href="https://www.linkedin.com/in/ahmed-sahardid//"></a>
-
-<h2>👨‍💻 CyperSecurity Projects:</h2>
-
+<h1>Hi, I'm Ahmed <br/><a https://github.com/>Programmer</a>, <a href="https://www.linkedin.com/in/ahmed-sahardid//"></a> DevSec-Ops Enthusiast.
 
 - 🔭 I’m currently working on HEADSTARTER AI
 - 🌱 I’m currently learning REACT JS
